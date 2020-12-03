@@ -420,6 +420,8 @@ var   ticketdownload = function()
 				"MELCHIORBILIHOY",
 				"MANDONLOUISE",
 				"IRENE",
+				"TCHATIE",
+				"FABRICESIMO",
 				"MANGWA",
 				"TCHATCHOUANG",
 				"LOWE" ,
