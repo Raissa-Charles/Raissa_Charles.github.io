@@ -414,7 +414,7 @@ var   ticketdownload = function()
 				"LEDUR",
 				"DIDEROT",
 				 "LOIC",
-				 "ARMAND";
+				 "ARMAND",
 				 "JOEL",
 				"CHRISTIAN",
 				"SERGES2",
