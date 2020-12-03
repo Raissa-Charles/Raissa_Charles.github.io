@@ -459,6 +459,7 @@ var   ticketdownload = function()
 				"TCHIKANDO" ,
 				"TUINGA" ,
 				"NJAPOU" ,
+				"EMMANUELLE",
 				"NOUAYU" ,
 				"KENGNE3" ,
 				"GOMSI" ,
