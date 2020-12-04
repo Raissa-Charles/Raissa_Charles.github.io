@@ -439,6 +439,7 @@ var   ticketdownload = function()
 				"CHARME",
 				"QUINCY",
 				"GEMUEL",
+				"VANESSA2",
 				"MANUEL",
 				"VERA",
 				"OLIVIER",
