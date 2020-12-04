@@ -436,6 +436,7 @@ var   ticketdownload = function()
 				"AURORE",
 				"PHILIPPE",
 				"SAMUEL",
+				"CHARME",
 				"QUINCY",
 				"GEMUEL",
 				"MANUEL",
