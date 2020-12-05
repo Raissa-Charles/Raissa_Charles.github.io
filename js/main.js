@@ -443,6 +443,7 @@ var   ticketdownload = function()
 				"MANUEL",
 				"VERA",
 				"OLIVIER",
+				"MASSANGO",
 				"KAYO", 
 				"KAMGAA",
 				"SIMO2" ,
