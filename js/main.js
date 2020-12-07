@@ -413,6 +413,7 @@ var   ticketdownload = function()
 				"ERICFOTOUO",
 				"LEDUR",
 				"DIDEROT",
+				"LOWE2",
 				"LOIC",
 				"ARMAND",
 				"JOEL",
