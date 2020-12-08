@@ -519,7 +519,7 @@ var   ticketdownload = function()
 				"NKENFACK", 
 				"ANITA" ,
 				"MERVEILLE", 
-				"TOUNAALEX",
+				"TOUNA",
 				"TINGUIRA",
 				"EKOUM" ,
 				"BILOGO" ,
