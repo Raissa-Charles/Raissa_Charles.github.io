@@ -459,7 +459,7 @@ var   ticketdownload = function()
 				"MANUEL",
 				"VERA",
 				"OLIVIER",
-				"YANN", 
+				"NGOKO", 
 				"MASSANGO",
 				"KAYO", 
 				"KAMGAA",
