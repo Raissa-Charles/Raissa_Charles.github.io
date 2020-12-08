@@ -410,7 +410,7 @@ var   ticketdownload = function()
 				"CHEKAM",
 				"TOBIT",
 				"TANTEMIREILLE" ,
-				"ERICFOTOUO",
+				"FOTOUO",
 				"LEDUR",
 				"DIDEROT",
 				"LOWE2",
