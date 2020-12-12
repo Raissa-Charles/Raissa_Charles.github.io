@@ -433,6 +433,7 @@ var   ticketdownload = function()
 				"WILLIAMS",
 				"MBA",
 				"FABRICESIMO",
+				"DAVY",
 				"MANGWA",
 				"FAPONGJOSEPH",
 				"TCHATCHOUANG",
