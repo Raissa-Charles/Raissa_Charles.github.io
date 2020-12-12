@@ -408,6 +408,7 @@ var   ticketdownload = function()
 				"NGUENTE",
 				"KAPIEN",
 				"CHEKAM",
+				"TEYOU",
 				"TOBIT",
 				"TANTEMIREILLE" ,
 				"FOTOUO",
