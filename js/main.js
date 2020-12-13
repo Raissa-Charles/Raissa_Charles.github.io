@@ -419,6 +419,7 @@ var   ticketdownload = function()
 				"ARMAND",
 				"JOEL",
 				"CHRISTIAN",
+				"GILLESNGOUDJOU",
 				"NZENI",
 				"NZEUNI",
 				"ERNEST",
