@@ -439,6 +439,7 @@ var   ticketdownload = function()
 				"FAPONGJOSEPH",
 				"TCHATCHOUANG",
 				"LEPATOUO",
+				"DASSIE",
 				"TANKIOGUY",
 				"TSAFACKLOUIS", 
 				"NADINE",
