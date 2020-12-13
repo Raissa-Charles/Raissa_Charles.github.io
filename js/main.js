@@ -413,6 +413,7 @@ var   ticketdownload = function()
 				"CHARON",
 				"SALOMON",
 				"ESTELLINE",
+				"LAURENTINE",
 				"TEYOU",
 				"TOBIT",
 				"TANTEMIREILLE" ,
