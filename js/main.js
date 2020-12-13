@@ -445,6 +445,8 @@ var   ticketdownload = function()
 				"NADINE",
 				"SOLANGE",
 				"TALOM",
+				"CANDICE",
+				"MARILYN",
 				"CHRISTELLE",
 				"OMGBWA", 
 				"LOWE" ,
