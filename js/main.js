@@ -421,6 +421,7 @@ var   ticketdownload = function()
 				"DIDEROT",
 				"LOWE2",
 				"LOIC",
+				"SHARON",
 				"ARMAND",
 				"JOEL",
 				"CHRISTIAN",
