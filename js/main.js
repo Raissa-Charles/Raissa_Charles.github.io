@@ -420,6 +420,7 @@ var   ticketdownload = function()
 				"FOTOUO",
 				"LEDUR",
 				"DIDEROT",
+				"LAURESIMO",
 				"LOWE2",
 				"LOIC",
 				"PIERETTE",
