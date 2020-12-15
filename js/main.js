@@ -417,6 +417,7 @@ var   ticketdownload = function()
 				"TEYOU",
 				"TOBIT",
 				"TANTEMIREILLE" ,
+				"CAREL",
 				"FOTOUO",
 				"LEDUR",
 				"DIDEROT",
